@@ -1,0 +1,10 @@
+openai
+pydantic
+Pillow
+PyPDF
+PyMuPDF
+pdf2image
+PyPDF2
+python-pptx
+python-dotenv
+pywin32
